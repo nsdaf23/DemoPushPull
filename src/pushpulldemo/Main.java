@@ -17,5 +17,12 @@ public static void lowerCase (String str) {
 	
 	str.toLowerCase();
 	
+	
+		str.toLowerCase();
+	str.toLowerCase();
+
+	
+	
+	
 }
 }
