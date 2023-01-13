@@ -14,5 +14,8 @@ public static void lowerCase (String str) {
 		
 	str.toUpperCase();
 	
+	
+	str.toLowerCase();
+	
 }
 }
