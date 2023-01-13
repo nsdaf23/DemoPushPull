@@ -9,5 +9,10 @@ public class Main {
 		
 	}
 	
-
+	
+public static void lowerCase (String str) {
+		
+	str.toUpperCase();
+	
+}
 }
